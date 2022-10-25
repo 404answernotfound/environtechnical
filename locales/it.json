@@ -1,6 +1,27 @@
 {
+    "Home": {
+        "title": "Envirotechnical - Combattiamo il cambiamento climatico nella tecnologia",
+        "description": "envirotechnical è un progetto sul cambiamento climatico nel mondo della tecnologia, supportato da 404answernotfound e presentato per la prima volta alla Codemotion Milan 2022 da Lorenzo Pieri"
+    },
+    "Alert": {
+        "alertText": "Vorresti aggiungere il tuo sito o ricerca a questa pagina?"
+    },
+    "CTA": {
+        "cta_title": "Unisciti alla lotta contro il cambiamento climatico",
+        "cta_description": "Ci sono grandi opportunità per diventare sponsor di no profits con grande potenziale in tutto il mondo. Se avete la possibilità di fare qualcosa, contattateli! Siete un'organizzazione no profit che vorrebbe essere inserita su questo sito? Inviate un messaggio a 404answernotfound.public@gail.com o contattatemi direttamente su LinkedIn o Twitter!",
+        "cta": "Unisciti al cambiamento :)"
+    },
+    "Hero": {
+        "description": "Combattiamo il cambiamento climatico un byte alla volta :)",
+        "get_started": "Inizia",
+        "presentation": "Presentazione"
+    },
+    "List": {
+        "title": "Risorse per un Web sostenibile (Web Sustainability)",
+        "description": "Entra nel mondo dello sviluppo e design web sostenibile con le nostre risorse e dai un'occhiata a come anche il più piccolo cambiamento possa avere un impatto importante nella lotta contro il cambiamento climatico."
+    },
     "Footer": {
-        "cta": "The time to act is now",
-        "cta_question": "Interested in showcasing a research, article or video about the subject?"
+        "cta": "Il momento di agire è ora",
+        "cta_question": "Ti interessa aggiungere qualche ricerca, articolo o video sull'argomento?"
     }
 }

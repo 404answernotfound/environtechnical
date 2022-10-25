@@ -4,7 +4,21 @@
         "description": "envirotechnical is a climate change fight project by 404answernotfound, first presented at Codemotion Milan 2022 by Lorenzo Pieri"
     },
     "Alert": {
-        "alertText": "Interested in adding your website or research to this page?",
+        "alertText": "Interested in adding your website or research to this page?"
+    },
+    "CTA": {
+        "cta_title": "Join the fight against Climate Change",
+        "cta_description": "There are many amazing opportunities to sponsor incredible no profits around the world. If you have the chance to give something, why not reach out to them? Are you a no profit organization that would like to be listed on this website? Just send a message to 404answernotfound.public@gmail.com or contact me directly on LinkedIn or Twitter!",
+        "cta": "Join the change :)"
+    },
+    "Hero": {
+        "description": "Let's fight climate change one byte at a time :)",
+        "get_started": "Get started",
+        "presentation": "Presentation"
+    },
+    "List": {
+        "title": "Resources for a sustainable web",
+        "description": "Get started on sustainable web development and design with our resources and get a glance at how even the smallest commitment can have a solid take into the fight to climate change."
     },
     "Footer": {
         "cta": "The time to act is now",

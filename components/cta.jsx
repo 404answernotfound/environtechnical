@@ -1,9 +1,12 @@
 import { personalLinks } from '../constants';
 import Image from 'next/image';
-import ClimateImg1 from '../public/images/climate-change-person-3.webp'
-import ClimateImg2 from '../public/images/climate-change-person2.webp'
+import { useTranslations } from 'next-intl';
+
+import ClimateImg1 from '../public/images/climate-change-person-3.webp';
+import ClimateImg2 from '../public/images/climate-change-person2.webp';
 
 export default function CTA() {
+  const t = useTranslations('CTA');
   return (
     <section>
       <div>
@@ -11,16 +14,11 @@ export default function CTA() {
           <div className="bg-[#003566] p-8 md:p-12 lg:px-16 lg:py-24">
             <div className="mx-auto max-w-xl text-center">
               <h2 className="text-2xl font-bold text-white md:text-3xl">
-                Join the fight against Climate Change
+                {t('cta_title')}
               </h2>
 
               <p className="hidden text-white/90 sm:mt-4 sm:block">
-                There are many amazing opportunities to sponsor incredible no
-                profits around the world. If you have the chance to give
-                something, why not reach out to them? Are you a no profit
-                organization that would like to be listed on this website? Just
-                send a message to 404answernotfound.public@gmail.com or contact
-                me directly on LinkedIn or Twitter!
+                {t('cta_description')}
               </p>
 
               <div className="mt-4 md:mt-8">
@@ -28,7 +26,7 @@ export default function CTA() {
                   href={personalLinks.jointhechange.link}
                   className="inline-block rounded border border-white bg-white px-12 py-3 text-sm font-medium text-blue-500 transition hover:bg-transparent hover:text-white focus:outline-none focus:ring focus:ring-yellow-400"
                 >
-                  {personalLinks.jointhechange.title}
+                  {t('cta')}
                 </a>
               </div>
             </div>
