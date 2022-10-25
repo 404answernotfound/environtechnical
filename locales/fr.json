@@ -1,6 +1,27 @@
 {
+    "Home": {
+        "title": "",
+        "description": ""
+    },
+    "Alert": {
+        "alertText": ""
+    },
+    "CTA": {
+        "cta_title": "",
+        "cta_description": "",
+        "cta": ""
+    },
+    "Hero": {
+        "description": "",
+        "get_started": "",
+        "presentation": ""
+    },
+    "List": {
+        "title": "",
+        "description": ""
+    },
     "Footer": {
-        "cta": "The time to act is now",
-        "cta_question": "Interested in showcasing a research, article or video about the subject?"
+        "cta": "",
+        "cta_question": ""
     }
 }

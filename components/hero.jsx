@@ -1,6 +1,9 @@
 import { personalLinks } from '../constants';
+import { useTranslations } from 'next-intl';
 
 export default function Hero() {
+  const t = useTranslations('Hero');
+
   return (
     <section className="bg-gray-900 text-white">
       <div className="mx-auto max-w-screen-xl px-4 py-32 lg:flex lg:items-center">
@@ -10,7 +13,7 @@ export default function Hero() {
           </h1>
 
           <p className="mx-auto mt-4 max-w-xl sm:text-xl sm:leading-relaxed">
-            {'Let\'s fight climate change one byte at a time :)'}
+            {t('description')}
           </p>
 
           <div className="mt-8 flex flex-wrap justify-center gap-4">
@@ -18,14 +21,14 @@ export default function Hero() {
               className="block w-full rounded border border-[#003566] bg-[#003566] px-12 py-3 text-sm font-medium text-white hover:bg-transparent hover:text-white focus:outline-none focus:ring active:text-opacity-75 sm:w-auto"
               href={personalLinks.getstarted.link}
             >
-              {personalLinks.getstarted.title}
+              {t('get_started')}
             </a>
 
             <a
               className="block w-full rounded border border-[#003566] px-12 py-3 text-sm font-medium text-white hover:bg-[ focus:outline-none focus:ring active:bg-blue-500 sm:w-auto"
               href={personalLinks.presentation.link}
             >
-              {personalLinks.presentation.title}
+              {t('presentation')}
             </a>
           </div>
         </div>
