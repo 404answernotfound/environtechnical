@@ -1,27 +1,27 @@
 {
     "Home": {
-        "title": "",
-        "description": ""
+        "title": "Envirotechnical - Combate el cambio climático mediante la tecnología",
+        "description": "envorotechnical es un proyecto de lucha contra el cambio climático hecho por 404answernotfound, presentado por primera vez en Codemotion Milan 2022 por Lorenzo Pieri"
     },
     "Alert": {
-        "alertText": ""
+        "alertText": "¿Interesado en añadir tu sitio web o investigación a esta página?"
     },
     "CTA": {
-        "cta_title": "",
-        "cta_description": "",
-        "cta": ""
+        "cta_title": "Únete a la lucha contra el cambio climático",
+        "cta_description": "Hay muchas oportunidades asombrosas de patrocinar a organizaciones sin ánimo de lucro en todo el mundo. Si tienes la oportunidad de dar algo, ¿por qué no contactarles? ¿Eres una organización sin ánimo de lucro a la que le gustaría estar listada en esta página? ¡Envía un mensaje a 404answernotfound.public@gmail.com o contáctame directamente en LinkedIn o Twitter!",
+        "cta": "Únete al cambio :)"
     },
     "Hero": {
-        "description": "",
-        "get_started": "",
-        "presentation": ""
+        "description": "Vamos a combatir el cambio climático byte a byte :)",
+        "get_started": "Empezar",
+        "presentation": "Presentación"
     },
     "List": {
-        "title": "",
-        "description": ""
+        "title": "Recursos para una web sostenible",
+        "description": "Empieza con el desarrollo web sostenible y diseña con nuestros recursos y echa un vistazo a cómo hasta el más pequeño compromiso puede tener un papel importante en la lucha contra el cambio climático."
     },
     "Footer": {
-        "cta": "",
-        "cta_question": ""
+        "cta": "Es hora de actuar ahora",
+        "cta_question": "¿Interesado en enseñar una investigación, artículo o vídeo sobre el tema?"
     }
 }
