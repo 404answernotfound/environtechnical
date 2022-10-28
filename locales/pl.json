@@ -1,0 +1,27 @@
+{
+    "Home": {
+        "title": "Envirotechnical - Branży technologiczna kontra zmiany klimatyczne ",
+        "description": "Envirotechnical to projekt przeciwdziałania zmianom klimatu autorstwa 404answernotfound, który po raz pierwszy zaprezentował Lorenzo Pieri na Codemotion Milan 2022"
+    },
+    "Alert": {
+        "alertText": "Chcesz dodać swoją witrynę lub projekt badawczy?"
+    },
+    "CTA": {
+        "cta_title": "Przyłącz się do walki ze zmianami klimatycznymi",
+        "cta_description": "Jest wiele możliwości sponsorowania niezykłych organizacji non-profit na całym świecie. Jeśli możesz dać coś od siebie, czemu by nie wyciągnąć do nich pomocnej dłoni? Jesteś organizacją non-profit i chesz być się widocznym na tej stronie? Po prostu wyślij wiadomość na 404answernotfound.public@gmail.com albo skontaktuj się ze nami bezpośrednio na LinkedIn lub Twitterze!",
+        "cta": "Dołącz już dziś :)"
+    },
+    "Hero": {
+        "description": "Walczmy ze zmianami klimatu bajt po bajcie :)",
+        "get_started": "Start",
+        "presentation": "Prezentacja"
+    },
+    "List": {
+        "title": "Informacje o sieci przyjaznej dla środowiska",
+        "description": "Zacznij projektować i programować sieć przyjazną dla środowiska dzięki naszym materiałom i przekonaj się, że nawet najmiejsze zaangażowanie się, może mieć niemały wpływ na walkę ze zmianami klimatu."
+    },
+    "Footer": {
+        "cta": "Zacznij działać już teraz!",
+        "cta_question": "Chcesz zaprezentować badania, artykuł lub film?"
+    }
+}
