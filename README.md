@@ -91,4 +91,7 @@ Run npm lint and npm build before submitting your merge request.
 
 ## Team
 
+- [Lorenzo Pieri - 404answernotfound](https://github.com/404answernotfound)
+- [Angela Busato - AngyDev](https://github.com/AngyDev)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
