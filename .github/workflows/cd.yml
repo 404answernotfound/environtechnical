@@ -1,8 +1,8 @@
-name: Continuous Deployment (CD)
+name: Continuous Deployment
 
 on:
   workflow_run:
-    workflows: ["Continuous Integration (CI)"]
+    workflows: ["Continuous Integration"]
     # Execute the workflow once the CI workflow is completed on main branch.
     types: [completed]
     branches:
