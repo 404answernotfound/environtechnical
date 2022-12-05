@@ -1,0 +1,8 @@
+name: hello-world
+on: push
+jobs:
+  job-name:
+    runs-on: ubuntu-latest
+    steps:
+      - name: step-name
+        run: echo "Hello POWERCON2022!"
