@@ -14,11 +14,31 @@ export const environtechlist = [
     link: '  https://sustainablewebdesign.org/calculating-digital-emissions/'
   },
   {
+    id: 'env16',
+    title: 'Can dark mode save battery life?',
+    paragraph: 'CAN DARK MODE SAVE BATTERY LIFE AND HUMAN CIVILZATION?',
+    link: 'https://endtimes.dev/can-dark-mode-save-battery-life-and-human-civilzation/'
+  },
+  {
+    id: 'env14',
+    title: 'Low Impact manifesto',
+    paragraph:
+      'The internet is dirty. Data transfer requires electricity, which creates carbon emissions — and this leads to climate change. The Low Impact website reduces data transfer by up to 70% in comparison to our regular website.',
+    link: 'https://github.com/Organic-Basics/ob-low-impact-website#low-impact-manifesto'
+  },
+  {
+    id: 'env15',
+    title: 'Principles of Green Software Design',
+    paragraph:
+      'Green Software Engineering is an emerging discipline at the intersection of climate science, software practices and architecture, electricity markets, hardware and data center design.',
+    link: 'https://principles.green/'
+  },
+  {
     id: 'env2',
 
     title: 'From Cloud computing to Cloud pollution',
     paragraph:
-      'The environmental impact of internet use: an analysis of consumers\' self-attribution of responsibility',
+      "The environmental impact of internet use: an analysis of consumers' self-attribution of responsibility",
     link: "https://www.researchgate.net/profile/Leila-Elgaaied-Gambier/publication/317264513_From_cloud_computing_to_clouds_of_pollution_The_environmental_impact_of_internet_use_an_analysis_of_consumers'_self-attribution_of_responsibility/links/5fbfb06fa6fdcc6cc66a1385/From-cloud-computing-to-clouds-of-pollution-The-environmental-impact-of-internet-use-an-analysis-of-consumers-self-attribution-of-responsibility.pdf"
   },
   {
@@ -53,7 +73,7 @@ export const environtechlist = [
   {
     id: 'env7',
     title:
-      'Now entering the Webthropocene — how to minimize your website\'s carbon footprint',
+      "Now entering the Webthropocene — how to minimize your website's carbon footprint",
     paragraph:
       'A Medium article to help us understand better our carbon footprint using internet',
     link: 'https://boldium.medium.com/now-entering-the-webthropocene-how-to-minimize-your-websites-carbon-footprint-acf1dc7e5e59'
@@ -95,43 +115,43 @@ export const environtechlist = [
 
 export const personalLinks = {
   learnmore: {
-    'title': 'Learn more',
-    'link': 'https://404answernotfound.eu/'
+    title: 'Learn more',
+    link: 'https://404answernotfound.eu/'
   },
   getstarted: {
-    'title': 'Get started',
-    'link': '#list'
+    title: 'Get started',
+    link: '#list'
   },
   presentation: {
-    'title': 'Presentation',
-    'link': 'https://docs.google.com/presentation/d/1w1YCHrYT_qXhAdCUVlmnDWerqdwgqjSG/edit?usp=sharing&ouid=116177395425312379468&rtpof=true&sd=true'
+    title: 'Presentation',
+    link: 'https://docs.google.com/presentation/d/1w1YCHrYT_qXhAdCUVlmnDWerqdwgqjSG/edit?usp=sharing&ouid=116177395425312379468&rtpof=true&sd=true'
   },
   jointhechange: {
-    'title': 'Join the change :)',
-    'link': 'https://www.un.org/actnow?gclid=CjwKCAjwtKmaBhBMEiwAyINuwCmPI6ZQpNLUod9rAJf8eaOiAbkeFvJbRxtyOAvDZJc3ISJ5TeS1exoCdRMQAvD_BwE'
+    title: 'Join the change :)',
+    link: 'https://www.un.org/actnow?gclid=CjwKCAjwtKmaBhBMEiwAyINuwCmPI6ZQpNLUod9rAJf8eaOiAbkeFvJbRxtyOAvDZJc3ISJ5TeS1exoCdRMQAvD_BwE'
   },
   reachout: {
-    'title': 'Reach out',
-    'link': 'https://github.com/404answernotfound/community/discussions'
+    title: 'Reach out',
+    link: 'https://github.com/404answernotfound/community/discussions'
   },
   blog: {
-    'title': '404answernotfound Blog',
-    'link': 'https://404answernotfound.eu/'
+    title: '404answernotfound Blog',
+    link: 'https://404answernotfound.eu/'
   },
   twitter: {
-    'title': 'Twitter',
-    'link': 'https://twitter.com/404answnotfound'
+    title: 'Twitter',
+    link: 'https://twitter.com/404answnotfound'
   },
   linkedin: {
-    'title': 'LinkedIn',
-    'link': 'https://www.linkedin.com/in/lorenzopieri/'
+    title: 'LinkedIn',
+    link: 'https://www.linkedin.com/in/lorenzopieri/'
   },
   footer1: {
-    'title': 'UN',
-    'link': 'https://www.un.org/en/climatechange/what-is-climate-change'
+    title: 'UN',
+    link: 'https://www.un.org/en/climatechange/what-is-climate-change'
   },
   footer2: {
-    'title': 'Nasa',
-    'link': 'https://climate.nasa.gov/'
-  },
+    title: 'Nasa',
+    link: 'https://climate.nasa.gov/'
+  }
 };
