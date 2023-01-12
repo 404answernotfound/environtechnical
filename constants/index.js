@@ -7,6 +7,13 @@ export const environtechlist = [
     link: 'https://karmametrix.com'
   },
   {
+    id: 'env17',
+    title: 'Actually Dark Mode is saving the planet',
+    paragraph:
+      "We'll do some quick napkin math, and get a very rough idea of what kind of energy savings we're dealing with here — we'll use an iPhone as an example.",
+    link: 'https://endtimes.dev/actually-dark-mode-can-save-the-world/'
+  },
+  {
     id: 'env13',
     title: 'Sustainable Web Design - Calculating Digital Emissions',
     paragraph:
