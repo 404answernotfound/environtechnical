@@ -9,7 +9,6 @@ export default function Alert() {
       <p className="text-center text-sm font-medium">
         {t('alertText')}
         <a className="underline" href={personalLinks.learnmore.link}>
-          {' '}
           {personalLinks.learnmore.title}
         </a>
       </p>
